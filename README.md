@@ -28,7 +28,7 @@ This dataset can be used for:
 - Studying the impact of external factors (economic shifts, policy changes) on migration trends.
 
 ## Repository Contents
-- `migration_analysis.ipynb` - Jupyter Notebook containing data cleaning, exploration, and visualization code.
+- `us_migration_cleaning.ipynb` - Jupyter Notebook containing data cleaning, exploration, and visualization code.
 - `migrations_2010_to_2022.csv` - The cleaned dataset in CSV format.
 - `README.md` - Documentation of the project.
 
