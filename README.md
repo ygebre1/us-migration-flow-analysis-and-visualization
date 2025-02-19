@@ -19,7 +19,7 @@ The dataset required extensive cleaning and restructuring:
 
 ## Output and Accessibility
 The cleaned and processed dataset has been uploaded to Kaggle for public access. You can find it at:
-[**Kaggle Dataset: Migration Flows Across U.S. States (2010–2022)**]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ygebre1/migration-flows-across-u-s-states-20102022))
+[**Kaggle Dataset: Migration Flows Across U.S. States (2010–2022)**](https://www.kaggle.com/datasets/ygebre1/migration-flows-across-u-s-states-20102022)
 
 ## Usage
 This dataset can be used for:
